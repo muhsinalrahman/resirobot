@@ -3,3 +3,5 @@ merupakan bot pelacakan atau pengecekan resi paket pengiriman barang yang dikiri
 [PluginOngkosKirim](https://pluginongkoskirim.com/cek-resi/)
 
 dibangun menggunakan platform google apps script dengan pengetahuan seadanya.
+
+Bot: [@resirobot](https://telegram.me/resirobot)
