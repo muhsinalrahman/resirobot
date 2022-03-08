@@ -92,7 +92,7 @@ const message = update => {
         }
 
         if (new RegExp(`^\/(ekspedisi|jasa)(?:@${env.username})?$`, "i").exec(text)) {
-            let reply = new Resi().courierList();
+            let reply = new Resi().getCourier();
             return bot.sendMessage(chat_id, reply, message_id);
         }
     }
