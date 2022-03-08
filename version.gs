@@ -1,20 +1,19 @@
 /**
- * Lacak/Cek Paket Pengiriman Barang
+ * Pencarian Resi
  * 
- * berdasarkan https://pluginongkoskirim.com/cek-resi/
+ * berdasarkan https://trackingresi.com/
  * 
- * merupakan bot pelacakan atau pengecekan resi paket pengiriman barang yang dikirim melalui kurir
- * JNE, J&T, SiCepat, AnterAja, POS, TIKI, Wahana & Lion parcel.
+ * merupakan bot melacak kiriman barang dengan cepat dan mudah tanpa menu yang berbelit belit.
  * 
  * Kota Palembang, 20 Februari 2022
  */
 
 const app = {
-    "name": "Lacak/Cek Paket Pengiriman Barang",                // ganti nama bot
-    "username": "resirobot",                                    // ganti username bot
-    "version": "1.9",                                           // ganti versi bot
-    "site": "https://pluginongkoskirim.com/cek-resi/",
-    "author": "@kreasisaya"
+  "name": "Pencarian Resi",                // ganti nama bot
+  "username": "resirobot",                 // ganti username bot
+  "version": "2.3",                        // ganti versi bot
+  "site": "https://trackingresi.com/",
+  "author": "@kreasisaya"
 }
 
 const env = {
