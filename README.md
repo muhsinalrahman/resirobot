@@ -1,6 +1,6 @@
 # resirobot
-merupakan bot pelacakan atau pengecekan resi paket pengiriman barang yang dikirim melalui kurir JNE, J&amp;T, SiCepat, AnterAja, POS, TIKI, Wahana &amp; Lion parcel.
-[PluginOngkosKirim](https://pluginongkoskirim.com/cek-resi/)
+merupakan bot pelacakan atau pengecekan resi paket pengiriman barang yang cepat dan mudah tanpa menu yang berbelit belit.
+[TrackingResi](https://trackingresi.com/)
 
 dibangun menggunakan platform google apps script dengan pengetahuan seadanya.
 
